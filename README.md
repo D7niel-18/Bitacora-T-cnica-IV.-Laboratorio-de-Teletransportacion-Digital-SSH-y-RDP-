@@ -1,4 +1,4 @@
-# Bitacora-T-cnica-IV.-Laboratorio-de-Teletransportacion-Digital-SSH-y-RDP
+# SI-Bitacora4-AccesoRemoto
 - Profesor: Willman Acosta
 - Actividad: BITACORA IV
 
